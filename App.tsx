@@ -49,11 +49,8 @@ const App: React.FC = () => {
                 </svg>
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-slate-400">
-                AIEdit Pro
+                V-Try
               </span>
-            </div>
-            <div className="text-xs font-mono text-slate-500 border border-slate-800 px-2 py-1 rounded">
-              Model: Nano Banana (Gemini 2.5 Flash)
             </div>
           </div>
         </div>
@@ -151,7 +148,7 @@ const App: React.FC = () => {
       
       <footer className="border-t border-slate-800 bg-slate-900 py-6 mt-auto">
         <div className="max-w-7xl mx-auto px-4 text-center text-slate-500 text-sm">
-          <p>© {new Date().getFullYear()} AIEdit Pro. Powered by Google Gemini.</p>
+          <p>© {new Date().getFullYear()} V-Try. Powered by Google Gemini.</p>
         </div>
       </footer>
     </div>
