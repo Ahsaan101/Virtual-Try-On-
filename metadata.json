@@ -1,0 +1,5 @@
+{
+  "name": "AIEdit Pro - Virtual Try-On",
+  "description": "A professional-grade virtual try-on application powered by the Gemini Nano Banana model. Seamlessly merge clothing items onto photos of people with photorealistic results.",
+  "requestFramePermissions": []
+}
